@@ -1,4 +1,4 @@
-# Assignment 2 – Anchor Escrow (Turbin3 Pre-Builder)
+# Assignment 3 – Anchor Escrow (Turbin3 Pre-Builder)
 
 This project is part of the Turbin3 Pre-Builder Assignment 2 focused on building a secure, trustless Escrow program on Solana using the Anchor framework.
 
